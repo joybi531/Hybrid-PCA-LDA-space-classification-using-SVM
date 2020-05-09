@@ -1,0 +1,2 @@
+Classifying the Hyperspectral image dataset Indian-Pines using SVM classifier
+in a hybrid feature extraction(PCA+LDA) space
